@@ -9775,6 +9775,11 @@ open@^7.0.2:
     is-docker "^2.0.0"
     is-wsl "^2.1.1"
 
+openzeppelin-solidity@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/openzeppelin-solidity/-/openzeppelin-solidity-3.1.0.tgz#bc43306bf59f90a3fa7d97c42209617360d51a74"
+  integrity sha512-+MatFtoqicq5Pc4zkICs8g8gUyULU5HvyBn+OJRoYBHr0Pm3F/9sav3ZgL9npWtRFAIxzM9ryjQ9kKLwt05Imw==
+
 opn@^5.5.0:
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/opn/-/opn-5.5.0.tgz#fc7164fab56d235904c51c3b27da6758ca3b9bfc"
